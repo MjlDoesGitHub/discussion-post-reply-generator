@@ -10,9 +10,9 @@ Although this program is fully capable of generating discussion post replies in 
 
 ## Screenshots
 
-![image-20221109203952649](C:\Users\Matthew Lim\AppData\Roaming\Typora\typora-user-images\image-20221109203952649.png)
+![1](/1.png?raw=true "Example 1")
 
-![2](C:\Users\Matthew Lim\Desktop\2.png)
+![2](/2.png?raw=true "Example 1")
 
 ## Setup
 
