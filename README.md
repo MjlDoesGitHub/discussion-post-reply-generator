@@ -4,7 +4,7 @@ This app was built off of the OpenAI API [quickstart tutorial](https://beta.open
 
 In an online class, discussion posts are the main way students and professors interact with the course's ideas and lessons. The best discussion posts demonstrate an understanding of the course material and present a cohesive argument with evidence to back it up. However, it is oftentimes redundant and tedious to complete, so I decided to automate the process utilizing OpenAI's GPT-3 model (Davinci).
 
-This generator follows a basic debate structure in which it automatically agrees with the user it is replying to. The content that follows captures the reasoning of the user and adds on to their point, oftentimes with original thought. Lastly, the reply is finished with an expression of gratitude for the user's thoughts. 
+This generator follows a basic debate structure in which it automatically agrees with the user it is replying to. The content that follows captures the reasoning of the user and elaborates their point, oftentimes with original thought. Lastly, the reply is finished with an expression of gratitude for the user's thoughts. 
 
 Although this program is fully capable of generating discussion post replies in real-world discussion boards, **this program is used for educational purposes only**.
 
